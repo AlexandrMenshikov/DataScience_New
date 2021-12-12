@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Угадай число
 
 ## Оглавление
 [1. Описание проекта](https://github.com/AlexandrMenshikov/DataScience_New/tree/main/Project_0/README.md#Описание-проекта)
