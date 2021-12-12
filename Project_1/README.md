@@ -1,4 +1,4 @@
-# Проект 1. Угадай число
+# Проект 1. Угадай число за 20 попыток
 
 ## Оглавление
 [1. Описание проекта](https://github.com/AlexandrMenshikov/DataScience_New/tree/main/Project_1/README.md#Описание-проекта)
